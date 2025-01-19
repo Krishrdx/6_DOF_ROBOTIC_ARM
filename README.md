@@ -11,7 +11,7 @@ Benefits:
 2. Scalability: Can be adapted for both small-scale and large-scale operations.
 3. Safety: Minimizes human intervention in hazardous environments.
 
-In the coding first we calculated all the orentation by the use of coordinates then write the code of using python language then we convert the code into an Arduino IDE code,
+In the coding part first we calculated all the orentation by the use of coordinates then write the code of using python language then we convert the code into an Arduino IDE code,
 The Arduino Code is given below:
 
 #include <Arduino.h>
